@@ -1,0 +1,3 @@
+D:\Code\mirai_eat\bin\Release\net6.0\publish\win-x64\mirai_eat.pdb
+D:\Code\mirai_eat\bin\Release\net6.0\publish\win-x64\System.Reactive.xml
+D:\Code\mirai_eat\bin\Release\net6.0\publish\win-x64\mirai_eat.exe
